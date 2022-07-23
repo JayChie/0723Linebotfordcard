@@ -1,0 +1,5 @@
+line-bot-sdk
+flask
+selenium==3.8.0
+BeautifulSoup4
+liffpy
